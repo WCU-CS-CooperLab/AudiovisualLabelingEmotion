@@ -1,0 +1,94 @@
+{
+   "file-id": "DA02",
+    "Base Selections": [
+	{"label": "Academic Events", "link": "AcademicEvents"},
+	{"label": "Social Events", "link": "SocialEvents"},
+	{"label": "Community Service Events", "link": "CommunityService"},
+	{"label": "Professional Development Events", "link": "ProfessionalDevelopment"}
+    ],
+  "AcademicEvents": [
+      {"label":"aevent1", "link":"adescription1"},
+      {"label":"aevent2", "link": "adescription2"},
+      {"label":"aevent3", "link": "adescription3"}
+  ],
+  "SocialEvents": [
+      {"label":"socialevent1", "link": "sdescription1"},
+      {"label":"socialevent2", "link": "sdescription2"},
+       {"label":"socialevent3", "link": "sdescription3"}
+
+  ],
+
+    "CommunityService": [
+      {"label":"commevent1", "link": "cdescription1"},
+      {"label":"commevent2", "link": "cdescription2"},
+      {"label":"commevent3", "link": "cdescription3"}
+
+  ],
+
+    "ProfessionalDevelopment": [
+      {"label":"profevent1", "link": "pdescription1"},
+      {"label":"profevent2", "link": "pdescription2"},
+      {"label":"profevent3", "link": "pdescription3"}
+
+  ],
+
+  "adescription1": [
+      {"label":"description of event 1"}
+  ],
+
+  "adescription2": [
+      {"label":"description of event 2"}
+    ],
+
+  "adescription3": [
+      {"label":"description of event 3"}
+    ],
+
+  "sdescription1": [
+      {"label":"description of event 1"}
+    ],
+
+  "sdescription2": [
+      {"label":"description of event 2"}
+    ],
+
+  "sdescription3": [
+      {"label":"description of event 3"}
+    ],
+
+  "cdescription1": [
+      {"label":"description of event 1"}
+    ],
+
+  "cdescription2": [
+      {"label":"description of event 2"}
+    ],
+
+  "cdescription3": [
+      {"label":"description of event 3"}
+    ],
+
+  "pdescription1": [
+      {"label":"description of event 1"}
+    ],
+
+  "pdescription2": [
+      {"label":"description of event 2"}
+    ],
+
+  "pdescription3": [
+      {"label":"description of event 3"}
+    ],
+}
+
+
+
+
+
+
+
+
+
+
+
+

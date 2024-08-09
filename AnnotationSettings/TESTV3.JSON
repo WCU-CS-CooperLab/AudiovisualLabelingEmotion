@@ -1,0 +1,144 @@
+{
+
+  "file-id": "DA01",
+    "Base Selections": [
+	{"label": "Emotion", "link": "Emotion"},
+	{"label": "Class Action", "link": "ClassAction"} ,
+	{"label": "Move Action", "link": "MovementAction"} 
+    ],
+  "Emotion": [
+      {"label":"Sad", "link":"Scale5"},
+      {"label":"Angry", "link": "Scale5"},
+      {"label":"Joy", "link": "Scale5"},
+      {"label":"Disgust", "link": "Scale5"},
+      {"label":"Frustration", "link": "Scale5"}
+  ],
+  "ClassAction": [
+      {"label":"Talking", "link": "TalkAct"},
+      {"label":"Listening", "link": "ListenAct"},
+       {"label":"Looking", "link": "LookAct"},
+      {"label":"Thinking", "link": "ThinkAct"},
+      {"label":"Writing", "link": "WriteAct"},
+      {"label":"Gesturing", "link": "GestureAct"},
+      
+  ],
+
+    "MovementAction": [
+      {"label":"Running", "link": "MoveAct"},
+      {"label":"Walking", "link": "MoveAct"},
+      {"label":"Jumping", "link": "JumpAct"},
+      {"label":"Sitting", "link": "SitAct"},
+      {"label":"Standing", "link": "StandAct"},     
+  ],
+
+  "Scale5": [
+      {"label":"1"},
+      {"label":"2"},
+      {"label":"3"},
+      {"label":"4"},
+      {"label":"5"}
+    ],
+
+    "TalkAct": [
+      {"label":"to room"},
+      {"label":"to person"},
+      {"label":"to group"},
+      {"label":"on phone"},
+      {"label":"to self"}
+    ],
+
+    "LookAct": [
+      {"label":"at presentation"},
+      {"label":"at my screen"},
+      {"label":"at my notes"},
+      {"label":"at person talking"},
+      {"label":"away"}
+    ],
+    
+    "ListenAct": [
+      {"label":"to music"},
+      {"label":"to person"},
+      {"label":"to group"},
+      {"label":"on phone"}
+    ],
+
+    "GestureAct": [
+      {"label":"raised hand"},
+      {"label":"shrugging"},
+      {"label":"waving"},
+      {"label":"laughing"},
+      {"label":"crying"}
+    ],
+    
+    "WriteAct": [
+      {"label":"taking notes"},
+      {"label":"solving problem"},
+      {"label":"doodling"},
+      {"label":"off topic"}
+    ],
+
+    "ThinkAct": [
+      {"label":"about class"},
+      {"label":"about self"},
+      {"label":"about friends"},
+	{"label":"about future"},
+	{"label":"about past"}
+    ],
+
+     "SitAct": [
+      {"label":"on chair"},
+      {"label":"down"},
+      {"label":"on bench"},
+      {"label":"with group"},
+      {"label":"alone"}
+     ],
+    
+    "StandAct": [
+      {"label":"up"},
+      {"label":"alone"},
+      {"label":"with one"},
+      {"label":"with group"},
+      {"label":"in crowd"}
+    ],
+
+    "MoveAct": [
+      {"label":"to item"},
+      {"label":"to person"},
+      {"label":"in circles"},
+      {"label":"in place"},
+      {"label":"away"}
+    ],
+
+    "JumpAct": [
+      {"label":"from standing"},
+      {"label":"over obstacle"},
+      {"label":"forward"},
+      {"label":"to side"},
+      {"label":"away"}
+    ],
+
+
+
+  "Scale1": [
+      {"label":"One"},
+      {"label":"Two"},
+      {"label":"Three"},
+      {"label": "Four"},
+      {"label": "Five"}
+  ]
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
